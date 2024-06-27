@@ -20,4 +20,4 @@ void main()
     printf("\na[%d]=%d\n",i,a[i]);
   }
   
-}
+}//coding superstar mrinalbhai
